@@ -14,7 +14,7 @@ const chainId = ChainId.ALFAJORES
 console.log("chainId is...", chainId)
 
 // wallet connection details
-const seed = ""; // '0x0ae93cc7e36d8ff1784493db7a8a693eb03b084e95a3f9cf7805c4880e8ac1f2'  // enter your wallet 12 word seed phrase
+const seed = ""; // ''  // enter your wallet 12 word seed phrase
 const mywallet = "0x909b0dfe4267f7e2037807a71a9e06eca8ea23dc";
 const to = "0xc8739959E413365255d82d86e6db157768B6DEAD"; // '0x8bf0AfCa4e54D8F4d46FA3F734Aaf1c1A10c6AD0'// should be a checksummed recipient address // enter your wallet address where to send the bought tokens
 
