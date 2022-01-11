@@ -12,7 +12,7 @@ const provider = new CeloProvider('https://alfajores-forno.celo-testnet.org')
 const chainId = ChainId.ALFAJORES
 
 // wallet connection details
-const seed = "0xe5e5aa6562d90f542d5d4f24244b228cc365797ed5c1a4a8eea5b623231c6bb9" // enter your wallet 12 word seed phrase
+const seed = "" // enter your wallet 12 word seed phrase
 const to = "0xc8739959E413365255d82d86e6db157768B6DEAD" // should be a checksummed recipient address // enter your wallet address where to send the bought tokens
 const wallet_ = "0x909b0dfe4267f7e2037807a71a9e06eca8ea23dc"
 
